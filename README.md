@@ -33,3 +33,7 @@ Other similar resources (please suggest or crosspost):
 * https://github.com/trending/lua?since=monthly
 * [GitHub Most Stars](https://github.com/search?q=stars%3A%3E0&s=stars&type=Repositories)
 * [Github Most Forks](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
+
+Upvote these Reddit posts if you'd like to help the project grow:
+* [r/github](https://www.reddit.com/r/github/comments/aubbsq/git_the_world_together/)
+* [r/programming](https://www.reddit.com/r/programming/comments/aubgvf/git_the_world_together_a_place_to_get_involved/)
