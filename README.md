@@ -6,7 +6,7 @@ Here's brief outline:
 * live chat and discussion over Gitter or other sites, possibly using SecondLife proximity voices
 * attribution and credit based on code contributions on GitHub and idea formation in Reddit
 
-All are welcome, keep things fun.
+All are welcome, and keep things fun!
 
 
 ## coding collective
