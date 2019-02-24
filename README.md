@@ -21,7 +21,7 @@ All are welcome, and keep things fun!
     * https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/
 
 ### live chat
-* Reddit chat
+* Reddit [chat](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit
 * https://gitter.im/GitTheWorldTogether/community#
 
 ### attribution
