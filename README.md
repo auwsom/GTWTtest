@@ -36,4 +36,5 @@ Other similar resources (please suggest or crosspost):
 
 Upvote these Reddit posts if you'd like to help the project grow:
 * [r/github](https://www.reddit.com/r/github/comments/aubbsq/git_the_world_together/)
+* [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/comments/auaq7q/git_the_world_together_a_place_to_get_involved/)
 * [r/programming](https://www.reddit.com/r/programming/comments/aubgvf/git_the_world_together_a_place_to_get_involved/)
