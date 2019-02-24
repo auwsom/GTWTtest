@@ -13,7 +13,7 @@ All are welcome, and keep things fun!
 * here
 
 ## project ideas
-* have a tree structure of topics for projects: 
+* have a tree structure of topics for projects. links to GitHub projects below and then in the wiki by topic:
 * need more Reddit karma to create a new subreddit, but here is an older page for now:
     https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/
 
