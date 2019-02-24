@@ -20,7 +20,7 @@ All are welcome, keep things fun!
 
 ### live chat
 * Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit
-* A Gitter.com [chatroom](https://gitter.im/GitTheWorldTogether/community#)
+* Gitter.com [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
 ### attribution
 * discussion..
