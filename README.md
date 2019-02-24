@@ -7,7 +7,10 @@ Here's brief outline:
 * attribution and credit based on code contributions on GitHub and idea formation in Reddit
 
 All are welcome, and keep things fun!
-<br>
+
+
+
+
 
 ### coding collective
 * here
