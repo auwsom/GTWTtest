@@ -16,7 +16,7 @@ All are welcome, and keep things fun!
 
 ### project ideas
 * have a tree structure of topics for projects. links to GitHub projects below and then in the wiki by topic:
-    * Global economic model public https://www.kaggle.com/auwsom/gdp-to-2060-world-plot
+    * Global economic model public [GitHub repo](https://github.com/auwsom/Global-GDP-Projections-to-2060) for issue tracking and [Kaggle kernel](https://www.kaggle.com/auwsom/gdp-to-2060-world-plot) with its own version control.
 * need more Reddit karma to create a new subreddit, but here is an [older page](https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/) for now:
 
 ### live chat
