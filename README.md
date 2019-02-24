@@ -31,3 +31,7 @@ Other similar resources (please suggest or crosspost):
 * [/r/GitHub sticky](https://www.reddit.com/r/github/comments/28ja0z/have_or_know_of_a_project_on_github_looking_for/) (archived)
 * https://www.reddit.com/r/coolgithubprojects/
 * https://www.volunteermatch.org/
+* https://github.com/trending
+* https://github.com/trending/lua?since=monthly
+* [GitHub Most Starred](https://github.com/search?q=stars%3A%3E0&s=stars&type=Repositories)
+* [Github Most Forked](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
