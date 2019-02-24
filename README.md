@@ -11,7 +11,7 @@ All are welcome, keep things fun!
 '
 
 ### coding collective
-* here
+* this page
 
 ### project ideas
 * have a tree structure of topics for projects. links to GitHub projects below and then in the wiki by topic:
@@ -23,7 +23,7 @@ All are welcome, keep things fun!
 * A Gitter.com [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
 ### attribution
-* discussion
+* discussion..
 
 '
 
