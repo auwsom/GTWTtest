@@ -6,7 +6,7 @@ Here's brief outline:
 * live chat and discussion over Gitter or other sites, possibly in a virtual world
 * attribution and credit based on code contributions on GitHub and idea formation in Reddit
 
-All are welcome, and keep things fun!
+All are welcome, keep things fun!
 
 '
 
