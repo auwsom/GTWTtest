@@ -8,8 +8,8 @@ Here's brief outline:
 
 All are welcome, and keep things fun!
 
-
-
+-
+-
 
 
 ### coding collective
