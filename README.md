@@ -15,7 +15,7 @@ All are welcome, keep things fun.
 ## project ideas
 * have a tree structure of topics for projects: 
 * need more Reddit karma to create a new subreddit, but here is an older page for now:
-    https://www.reddit.com/r/TheNo1Priority/
+    https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/
 
 ## live chat
 * Reddit chat
