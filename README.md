@@ -20,14 +20,14 @@ All are welcome, keep things fun!
 * more Reddit karma is required to create a new subreddit, but here is an [older page](https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/) for now:
 
 ### live chat
-* Reddit [chat](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit
-* A Gitter.com [community](https://gitter.im/GitTheWorldTogether/community#)
+* Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit
+* A Gitter.com [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
 ### attribution
 * discussion
 
 
 Other similar resources (please suggest or crosspost):
-* https://www.reddit.com/r/github/comments/28ja0z/have_or_know_of_a_project_on_github_looking_for/ (archived)
+* [/r/GitHub sticky](https://www.reddit.com/r/github/comments/28ja0z/have_or_know_of_a_project_on_github_looking_for/) (archived)
 * https://www.reddit.com/r/coolgithubprojects/
 * https://www.volunteermatch.org/
