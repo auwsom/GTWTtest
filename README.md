@@ -26,3 +26,4 @@ All are welcome, keep things fun.
 
 
 Other similar resources (please suggest or crosspost):
+* https://www.reddit.com/r/coolgithubprojects/
