@@ -34,4 +34,4 @@ Other similar resources (please suggest or crosspost):
 * https://github.com/trending
 * https://github.com/trending/lua?since=monthly
 * [GitHub Most Starred](https://github.com/search?q=stars%3A%3E0&s=stars&type=Repositories)
-* [Github Most Forked](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories) (not sorted purely)
+* [Github Most Forked](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
