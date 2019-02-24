@@ -32,6 +32,7 @@ Other similar resources (please suggest or crosspost):
 * https://github.com/trending
 * https://github.com/trending/lua?since=monthly
 * [GitHub Most Stars](https://github.com/search?q=stars%3A%3E0&s=stars&type=Repositories)
+* [GitHub Most Stars - python](https://github.com/search?p=2&q=stars%3A%3E1+language%3Apython&&s=stars&type=Repositories)
 * [Github Most Forks](https://github.com/search?o=desc&q=stars:%3E1&s=forks&type=Repositories)
 
 Upvote these Reddit posts if you'd like to help the project grow:
