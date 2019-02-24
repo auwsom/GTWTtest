@@ -22,8 +22,6 @@ All are welcome, keep things fun!
 * Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit
 * Gitter [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
-### attribution
-* discussion..
 
 '
 
