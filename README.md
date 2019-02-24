@@ -10,8 +10,6 @@ All are welcome, and keep things fun!
 
 '
 
-'
-
 
 ### coding collective
 * here
@@ -20,7 +18,7 @@ All are welcome, and keep things fun!
 * have a tree structure of topics for projects. links to GitHub projects below and then in the wiki by topic:
     * Global economic model public https://www.kaggle.com/auwsom/gdp-to-2060-world-plot
 * need more Reddit karma to create a new subreddit, but here is an older page for now:
-    https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/
+    * https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/
 
 ### live chat
 * Reddit chat
