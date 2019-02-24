@@ -10,7 +10,6 @@ All are welcome, keep things fun!
 
 '
 
-
 ### coding collective
 * here
 
@@ -26,6 +25,7 @@ All are welcome, keep things fun!
 ### attribution
 * discussion
 
+'
 
 Other similar resources (please suggest or crosspost):
 * [/r/GitHub sticky](https://www.reddit.com/r/github/comments/28ja0z/have_or_know_of_a_project_on_github_looking_for/) (archived)
