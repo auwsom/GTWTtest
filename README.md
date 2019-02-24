@@ -3,7 +3,7 @@
 Here's brief outline:
 * coding collective of contibutors
 * project ideas are submitted and voted on Reddit or another vote-enabled site
-* live chat and discussion over Gitter or other sites, possibly in a virtual world using proximity voices
+* live chat and discussion over Gitter or other sites, possibly in a virtual world
 * attribution and credit based on code contributions on GitHub and idea formation in Reddit
 
 All are welcome, and keep things fun!
