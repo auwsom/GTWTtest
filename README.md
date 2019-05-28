@@ -16,7 +16,7 @@ All are welcome. Keep a fun atmosphere!
 * more Reddit karma is required to create a new subreddit, but here is an [older page](https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/) for now:
 
 ### live chat
-* Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit
+* Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit (sign-in)
 * Gitter [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
 
