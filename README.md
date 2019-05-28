@@ -1,17 +1,13 @@
 # GitTheWorldTogether
 
 Here's brief outline:
-* coding collective of contibutors
 * project ideas are submitted and voted on Reddit or another vote-enabled site
 * live chat and discussion over Gitter or other sites, possibly in a virtual world
 * attribution and credit based on code contributions on GitHub and idea formation in Reddit
 
-All are welcome, keep things fun!
+All are welcome. Please keep the atmosphere fun!
 
 '
-
-### coding collective
-* this page
 
 ### project ideas
 * have a tree structure of topics for projects. links to GitHub projects below and then in the wiki by topic:
