@@ -1,11 +1,12 @@
-# GitTheWorldTogether
+# GitTheWorldTogether (GTWT)
 
-Here's brief outline:
-* project ideas are submitted and voted on Reddit or another vote-enabled site
-* live chat and discussion over Gitter or other sites, possibly in a virtual world
-* attribution and credit based on code contributions on GitHub and idea formation in Reddit
+A brief outline:
+* Problems or ideas are submitted as a single GitHub Issue
+* Each Issue can be voted on by clicking the Thumbs Up reaction (click on the Smiley Face)
+* Categories can be created as a separate Repo linked back to the GTWT main Issues page
+* All Issues within a category can be sorted by Thumbs Up reactions to see the most popular or important
 
-All are welcome. Please keep the atmosphere fun!
+All are welcome. Keep a fun atmosphere!
 
 '
 
