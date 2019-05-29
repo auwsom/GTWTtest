@@ -1,19 +1,20 @@
 # GitTheWorldTogether (GTWT)
 
 A brief outline:
-* Problems or ideas are submitted as a single GitHub Issue
+* Any problem or idea can be submitted as an GitHub Issue
+   * Issues are submitted as a single problem or idea within a Catagory 
+* Categories are created by anyone as a separate Repo and entered as an Issue in the main GTWT Repo
+   * This GTWT Repo is the root Repo and contains only Category Repos and Issues specifically about GTWT
 * Each Issue can be voted on by clicking the Thumbs Up reaction (click on the Smiley Face)
-* Categories can be created as a separate Repo linked back to the GTWT main Issues page
-* All Issues within a category can be sorted by Thumbs Up reactions to see the most popular or important
+* All Issues within a Category can be sorted by Thumbs Up reactions to see the most popular or important
+* Issues can be linked across Categories using GitHub labels (and using WikiData topics to help organize them)
 
-All are welcome. Keep atmosphere fun!
+All are welcome. Keep atmosphere fun. Family friendly language.
+
+Here are the GTWT Issues sorted by most Thumbs Ups:
+https://github.com/auwsom/GitTheWorldTogether/issues?utf8=%E2%9C%93&q=is%3Aissue+sort%3Areactions-%2B1-desc+
 
 '
-
-### project ideas
-* have a tree structure of topics for projects. links to GitHub projects below and then in the wiki by topic:
-    * Global economic model public [GitHub repo](https://github.com/auwsom/Global-GDP-Projections-to-2060) for issue tracking and [Kaggle kernel](https://www.kaggle.com/auwsom/gdp-to-2060-world-plot) with its own version control.
-* more Reddit karma is required to create a new subreddit, but here is an [older page](https://www.reddit.com/r/TheNo1Priority/comments/aua5cb/git_the_world_together/) for now:
 
 ### live chats
 * Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit (sign-in)
