@@ -13,9 +13,8 @@ All are welcome. Keep atmosphere fun. Family friendly language.
 
 Here are the [GTWT Issues sorted by most Thumbs Ups](https://github.com/auwsom/GitTheWorldTogether/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+):
 
-https://github.com/auwsom/GitTheWorldTogether/issues
-is:issue sort:reactions-+1-desc 
 https://github.com/auwsom/GitTheWorldTogether/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+
+https://github.com/auwsom/GitTheWorldTogether/issues is:issue sort:reactions-+1-desc 
 
 '
 
