@@ -16,8 +16,7 @@ https://github.com/auwsom/GitTheWorldTogether/issues?utf8=%E2%9C%93&q=is%3Aissue
 
 '
 
-### live chats
-* Reddit [chatroom](https://www.reddit.com/chat/r/theno1priority/channel/33819395_20c8084144ca005210ad57926b0b66fced0dbdf5) for the subreddit (sign-in)
+### Live chats
 * Gitter [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
 ### Other similar resources (please suggest or crosspost):
