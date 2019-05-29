@@ -6,7 +6,7 @@ A brief outline:
 * Categories can be created as a separate Repo linked back to the GTWT main Issues page
 * All Issues within a category can be sorted by Thumbs Up reactions to see the most popular or important
 
-All are welcome. Keep a fun atmosphere!
+All are welcome. Keep atmosphere fun!
 
 '
 
