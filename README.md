@@ -23,6 +23,7 @@ https://github.com/auwsom/GitTheWorldTogether/issues?q=is%3Aissue+sort%3Areactio
 * Gitter [chatroom](https://gitter.im/GitTheWorldTogether/community#)
 
 ### Other similar resources (please suggest or crosspost):
+* Reddit would be great for this except posts are archived after 6 months. Ranker.com is another, but item entry can be tedious. 
 * [/r/GitHub sticky](https://www.reddit.com/r/github/comments/28ja0z/have_or_know_of_a_project_on_github_looking_for/) (archived)
 * https://www.reddit.com/r/coolgithubprojects/
 * https://www.volunteermatch.org/
